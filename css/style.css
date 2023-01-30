@@ -1,0 +1,32 @@
+.item-1, .item-2, .item-3 {
+  font-size: 22px;
+  padding: 20px;
+  background-color: #fd12cc;
+}
+
+.item-1 {
+  color: #fff;
+}
+
+.item-2 {
+  color: #ccc;
+}
+
+.item-3 {
+  color: #000;
+}
+
+.tools-description {
+  text-align: left;
+}
+.tools.item {
+  float: left;
+}
+
+.description {
+  color: #fd12cc;
+}
+.description:hover {
+  color: #000;
+  font-family: "lato", sans-serif;
+}
